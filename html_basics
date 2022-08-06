@@ -1,2 +1,33 @@
 what is HTML?
 HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display text, images and other forms of multimedia on a webpage. 
+
+Attibutes
+<h1 id="mention"> heading </h1>
+
+Basics tags
+<h1> h1 to h6 Heading tags</h>
+<i> -italic </i>
+<b> bolt </b>
+<q> Quote </q>
+<p> Paragraph </p>
+<blockquote> blockquote </blockquote>
+<abbr> Abbreviation </abbr>
+<acroynm> Acroynm</acroynm>
+<hr> Horizontal Rule </hr>
+<address> Address </address>
+<b> bolt </b>
+<b> bolt </b>
+<b> bolt </b>
+<b> bolt </b>
+<b> bolt </b>
+<b> bolt </b>
+<b> bolt </b>
+<b> bolt </b>
+
+
+Cimatic markup
+*   <strong> strong</strong>
+*   <em> emphasis</em>
+
+
+
